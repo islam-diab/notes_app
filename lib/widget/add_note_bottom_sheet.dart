@@ -21,7 +21,7 @@ class AddNoteBottomSheet extends StatelessWidget {
           ),
           CustomTextField(
             hintText: 'Content',
-            maxLine: 6,
+            maxLine: 7,
           ),
         ],
       ),
