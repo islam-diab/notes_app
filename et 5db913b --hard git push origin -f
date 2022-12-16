@@ -1,0 +1,153 @@
+[33mcommit e8e11a92a612fa194782295d370c4c43d2490b5f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Islam Diab <islamdiab304@gmail.com>
+Date:   Fri Dec 16 19:45:04 2022 +0200
+
+    init & open Hive
+
+[33mcommit 54247328c916339839a72d37e08f73b49b98602b[m
+Author: Islam Diab <islamdiab304@gmail.com>
+Date:   Fri Dec 16 19:37:29 2022 +0200
+
+    create type adapter for note model
+
+[33mcommit c67086b022c47c511dfdfb44e975424354bc8f63[m
+Author: Islam Diab <islamdiab304@gmail.com>
+Date:   Fri Dec 16 17:51:00 2022 +0200
+
+    add hive
+
+[33mcommit 08946d07547a7c5fad8ccc9251c9e0c2da72f500[m
+Author: Islam Diab <islamdiab304@gmail.com>
+Date:   Fri Dec 16 17:39:12 2022 +0200
+
+    create note model
+
+[33mcommit 1fd849d64bcd9ba5b0f49191b2fe5083cbb03e02[m
+Author: Islam Diab <islamdiab304@gmail.com>
+Date:   Fri Dec 16 01:36:57 2022 +0200
+
+    Edite note ui done
+
+[33mcommit 957e8d4010f70400f6c03d0915135bedc2db641d[m
+Author: Islam Diab <islamdiab304@gmail.com>
+Date:   Fri Dec 16 01:03:22 2022 +0200
+
+    finch button sheet
+
+[33mcommit bddfd941eaccb81e1d1dfcede44b8d2dad42e3cc[m
+Author: Islam Diab <islamdiab304@gmail.com>
+Date:   Fri Dec 16 00:12:50 2022 +0200
+
+    add fields 1
+
+[33mcommit 5db913b0b844ffb3aa14b21f5eb3b1ee57c1e772[m
+Author: Islam Diab <islamdiab304@gmail.com>
+Date:   Fri Dec 16 00:12:10 2022 +0200
+
+    add fields 1
+
+[33mcommit 59b77940a24eb9b0db1f093912157f4ba95e4918[m
+Author: Islam Diab <islamdiab304@gmail.com>
+Date:   Fri Dec 16 00:11:43 2022 +0200
+
+    add fields
+
+[33mcommit be3ecd16a67e72d0d34e88087982f7d80dc6469d[m
+Author: Islam Diab <islamdiab304@gmail.com>
+Date:   Fri Dec 16 00:10:08 2022 +0200
+
+    add fields
+
+[33mcommit 11ffd53ca4949fdc5b55b58d08f09e4ba88e0015[m
+Author: Islam Diab <islamdiab304@gmail.com>
+Date:   Thu Dec 15 23:50:53 2022 +0200
+
+    create custom text field
+
+[33mcommit b0666b21bcc203ea421c1e3e5d11bdc60bab91a0[m
+Author: islam <islamsalama304@gmail.com>
+Date:   Mon Oct 31 07:30:14 2022 +0200
+
+    add floating action button
+
+[33mcommit 04efa9874d82da32963630722018cb238a8ebd18[m
+Author: islam <islamsalama304@gmail.com>
+Date:   Mon Oct 31 07:24:10 2022 +0200
+
+    create note list view
+
+[33mcommit 7319a60a50ab5f0c49d2a8c6f1df38d8af9f08a2[m
+Author: islam <islamsalama304@gmail.com>
+Date:   Thu Oct 27 04:42:33 2022 +0200
+
+    create custom note item
+
+[33mcommit 5cbf4ba771bb8585a81533ac645da5f7040618c2[m
+Merge: d6f58e0 3025ddd
+Author: islam <islamsalama304@gmail.com>
+Date:   Thu Oct 27 04:32:51 2022 +0200
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit d6f58e057bf3ca575434b6128da446004bd4c0dd[m
+Author: islam <islamsalama304@gmail.com>
+Date:   Thu Oct 27 04:32:28 2022 +0200
+
+    create custom note item
+
+[33mcommit 3025dddbe813e89469d0a0b4ae919814fe5527f5[m
+Author: islam <islamsalama304@gmail.com>
+Date:   Sun Oct 23 18:36:55 2022 +0200
+
+    test
+
+[33mcommit a15c5253f4fcae93c2fe528c478bd1f99f2412b2[m
+Author: islam <islamsalama304@gmail.com>
+Date:   Sun Oct 23 17:09:23 2022 +0200
+
+    test
+
+[33mcommit c42014bb27ba9dd09bf639f5adc7a1b68c286930[m
+Merge: 4508641 1ed6d77
+Author: islam <islamsalama304@gmail.com>
+Date:   Sun Oct 23 17:06:47 2022 +0200
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 45086414036b5641eb1521c9dcb1bce5e2ca295f[m
+Merge: 7dc3f17 2dfbf78
+Author: islam <islamsalama304@gmail.com>
+Date:   Sun Oct 23 17:05:09 2022 +0200
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 1ed6d779d2f340b615a85bb38fe5a399574d3952[m
+Merge: 7dc3f17 2dfbf78
+Author: islam <islamsalama304@gmail.com>
+Date:   Sun Oct 23 17:05:09 2022 +0200
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 7dc3f17fc3423302190a12fbd2c011d54b86ece3[m
+Author: islam <islamsalama304@gmail.com>
+Date:   Sun Oct 23 17:03:33 2022 +0200
+
+    change theme and create notes view
+
+[33mcommit 2dfbf7801f7e5dcf11d957a5c35650d03175b3b8[m
+Author: islam <islamsalama304@gmail.com>
+Date:   Sun Oct 23 17:03:33 2022 +0200
+
+    change theme and create notes view
+
+[33mcommit 2951bdcd63ba00d16b445170404ea159c54fee24[m
+Author: islam <islamsalama304@gmail.com>
+Date:   Sun Oct 23 16:07:31 2022 +0200
+
+    frist step
+
+[33mcommit a3ec36e3af211fb7ec4ca110d130e95f238e4329[m
+Author: Islam Diab <islamsalama01020@gmail.com>
+Date:   Sun Oct 23 15:53:28 2022 +0200
+
+    added README.md
